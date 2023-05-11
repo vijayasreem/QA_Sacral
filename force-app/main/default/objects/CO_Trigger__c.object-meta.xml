@@ -5,15 +5,13 @@
         <externalId>false</externalId>
         <label>Survey</label>
         <required>true</required>
-        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>Name</fullName>
+        <fullName>Question_Text__c</fullName>
         <externalId>false</externalId>
-        <label>Name</label>
+        <label>Question Text</label>
         <required>true</required>
-        <trackHistory>false</trackHistory>
-        <type>Text</type>
+        <type>TextArea</type>
     </fields>
 </CustomObject>
